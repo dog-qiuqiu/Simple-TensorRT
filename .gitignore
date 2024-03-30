@@ -1,0 +1,10 @@
+*.deb
+*engine
+build
+sdk_out
+.nv
+.vscode
+.bash_history
+result.jpg
+resnet50_dynamic.onnx
+resnet50.onnx
